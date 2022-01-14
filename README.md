@@ -5,7 +5,7 @@
 
 =============================================================
 
-# Projectsederhana  Pengelolaan Karyawan untuk kebutuhan Tugas Kuliah (UAS) semester 7
+# Project sederhana  Pengelolaan Karyawan untuk kebutuhan Tugas Kuliah (UAS) semester 7
 ![gambar](preview.png?raw=true)
 ### Langkah-langkah :
 1. Clone atau download folder di dalam github ini
