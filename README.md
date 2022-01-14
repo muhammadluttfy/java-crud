@@ -26,7 +26,7 @@
 14. Bila sudah selesai membuka, akan ada project bernama "ProjectDataKaryawan"
 15. Run Project
 
-Penjelasan Package di dalam project:
+#### Penjelasan Package di dalam project:
 - com.ubp.config : File in digunakan untuk membuka koneksi ke database
 - com.ubp.manager : pengelolaan table untuk INSERT, SELECT, UPDATE, dan DELETE
 - com.ubp.model : untuk penampilkan data dari table berbentuk OBJEK di dalam java
